@@ -1,0 +1,15 @@
+body
+{
+  max-width: 800px;
+  margin: auto;
+  padding-top: 1%;
+}
+canvas
+{
+  border: black solid 1px;
+  background-image: url(background.png);
+}
+button
+{
+  display: none;
+}
